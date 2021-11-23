@@ -1,0 +1,6 @@
+main: dev.qrowned.npc.spigot.NPCFactoryPlugin
+version: 1.0.0
+author: qrowned
+description: Basic NPC Plugin.
+name: NPC-Factory
+depend: [ ProtocolLib ]
